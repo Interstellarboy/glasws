@@ -1,0 +1,38 @@
+.main-container {
+  background-color: rgb(56, 50, 50);
+}
+
+.banner {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  background: url("./assests/banner.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 90vh;
+}
+#log {
+  height: 200px;
+  width: 200px;
+}
+.banner-h1 {
+  color: ;
+  padding-left: 50px;
+  padding-right: 50px;
+  font-weight: 800;
+}
+.section1 {
+  margin-top: 10px;
+  color: #0b0b0b;
+  background: #428549;
+  padding: 10px 50px 10px 50px;
+  margin-bottom: 10px;
+}
+.btn {
+  background: #428549;
+  color: #fedc63;
+}
+p {
+  font-weight: lighter;
+}

@@ -1,0 +1,12 @@
+.container {
+  background: #383232;
+  margin: 0rem;
+  max-width: 100vw;
+}
+#aboutImg {
+  width: 100vw;
+  height: 70vh;
+}
+p {
+  margin: 0rem;
+}

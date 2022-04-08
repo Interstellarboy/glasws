@@ -8,16 +8,16 @@ import Services from "./Services";
 import StartUp from "./StartUp";
 
 function App() {
-  return (
-    <div className="App">
-      <Nav />
-      <HomePage />
-      <AboutUs />
-      <Services />
-      <StartUp />
-      <Footer />
-    </div>
-  );
+	return (
+		<div className="App">
+			<Nav />
+			<HomePage />
+			<AboutUs />
+			<Services />
+			<StartUp />
+			<Footer />
+		</div>
+	);
 }
 
 export default App;

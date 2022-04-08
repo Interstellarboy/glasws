@@ -7,7 +7,7 @@
   justify-content: center;
   align-items: center;
   flex-direction: column;
-  background: url("./assests/banner.jpg");
+  background:url("./assests/banner.png");
   background-repeat: no-repeat;
   background-size: cover;
   height: 90vh;
@@ -17,10 +17,12 @@
   width: 200px;
 }
 .banner-h1 {
-  color: ;
+  /* color: ; */
   padding-left: 50px;
   padding-right: 50px;
   font-weight: 800;
+  max-width: 900px;
+
 }
 .section1 {
   margin-top: 10px;
@@ -28,7 +30,14 @@
   background: #428549;
   padding: 10px 50px 10px 50px;
   margin-bottom: 10px;
+
 }
+.section1 > p {
+  max-width: 900px;
+  font-weight: 500;
+  margin: 10px auto;
+}
+
 .btn {
   background: #428549;
   color: #fedc63;

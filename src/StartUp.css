@@ -5,3 +5,10 @@
 .startup-container {
   background: #383232;
 }
+
+form {
+  max-width: 800px;
+  margin: 20px auto;
+  padding: 20px;
+  padding-top: 0px;
+}
